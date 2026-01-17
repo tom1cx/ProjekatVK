@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tvoj-url/sitemap.xml
+Sitemap: https://tom1cx.github.io/ProjekatVK/sitemap.xml

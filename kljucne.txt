@@ -1,0 +1,15 @@
+PRE:
+restoran, domaća kuhinja, tradicionalna hrana, roštilj
+
+POSLE:
+domaca kujna, roštilj dostava, hrana dostava, restoran jela
+
+
+
+naziv strima: Restoran
+
+URL: https://tom1cx.github.io/ProjekatVK/
+
+ID strima: 13315929727
+
+ID merenja: G-63YSYJQR7J
